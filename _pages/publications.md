@@ -32,7 +32,7 @@ author_profile: true
   {% endfor %}
 {% endif %} --> 
 **Journal Articles**
-------
+
 * **Coded Computing for Half-Duplex Wireless Distributed Computing Systems via Interference Alignment** \
 **Zhenhao Huang**, Kai Yuan, Shuai Ma, Yue Bi, Youlong Wu \
 IEEE Transactions on Wireless Communications \
