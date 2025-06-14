@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
@@ -30,7 +30,9 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
+**Journal Articles**
+------
 * **How do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective** \
 ***Qi Liu***, Jiaxin Mao, Ji-Rong Wen \
 [Preprint](https://arxiv.org/abs/2504.07898), 2025.04
@@ -39,6 +41,8 @@ author_profile: true
 ***Qi Liu***, Haozhe Duan, Yiqun Chen, Quanfeng Lu, Weiwei Sun, Jiaxin Mao \
 [Preprint](https://arxiv.org/abs/2504.07439), 2025.04
 
+**Conference Papers**
+------
 * **Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models** \
 ***Qi Liu***, Bo Wang, Nan Wang, Jiaxin Mao \
 Proceedings of the ACM Web Conference 2025. (*WWW* 2025) \
@@ -67,7 +71,7 @@ ACM Transactions on Information Systems. (*TOIS*) \
 ***Qi Liu***, Jiaxin Mao \
 Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. (*CIKM* 2023) \
 [Paper](https://dl.acm.org/doi/10.1145/3583780.3615282)
-<!-- url -->
+url
 
 
 

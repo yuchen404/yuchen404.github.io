@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Coded Computing for Half-Duplex Wireless Distributed Computing Systems via Interference Alignment"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
