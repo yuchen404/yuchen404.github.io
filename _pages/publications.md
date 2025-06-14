@@ -30,7 +30,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} --> -->
+{% endif %} --> 
 **Journal Articles**
 ------
 * **Coded Computing for Half-Duplex Wireless Distributed Computing Systems via Interference Alignment** \
