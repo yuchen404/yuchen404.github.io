@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,48 +30,32 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} -->
+{% endif %} --> -->
 **Journal Articles**
 ------
-* **How do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective** \
-***Qi Liu***, Jiaxin Mao, Ji-Rong Wen \
-[Preprint](https://arxiv.org/abs/2504.07898), 2025.04
+* **Coded Computing for Half-Duplex Wireless Distributed Computing Systems via Interference Alignment** \
+**Zhenhao Huang**, Kai Yuan, Shuai Ma, Yue Bi, Youlong Wu \
+IEEE Transactions on Wireless Communications \
+[Paper](https://ieeexplore.ieee.org/abstract/document/10678859/), 2024.09
 
-* **LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking** \
-***Qi Liu***, Haozhe Duan, Yiqun Chen, Quanfeng Lu, Weiwei Sun, Jiaxin Mao \
-[Preprint](https://arxiv.org/abs/2504.07439), 2025.04
+* **Coded caching scheme for partially connected linear networks via multi-antenna placement delivery array** \
+Minquan Cheng, Yun Xie, **Zhenhao Huang**, Mingming Zhang, Youlong Wu \
+IEEE Transactions on Communications \
+[Paper](https://ieeexplore.ieee.org/abstract/document/10562338), 2024.06
 
 **Conference Papers**
 ------
-* **Leveraging Passage Embeddings for Efficient Listwise Reranking with Large Language Models** \
-***Qi Liu***, Bo Wang, Nan Wang, Jiaxin Mao \
-Proceedings of the ACM Web Conference 2025. (*WWW* 2025) \
-[Paper](https://arxiv.org/abs/2406.14848)
+* **On the Optimality of All-to-All Broadcast Over Cache-Aided Ring Networks** \
+**Zhenhao Huang**, Minquan Cheng, Qifu T Sun, Youlong Wu \
+2025 IEEE International Symposium on Information Theory (ISIT) \
+Preprint, 2025.06
 
-* **TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy** \
-Yiqun Chen, ***Qi Liu***, Yi Zhang, Weiwei Sun, Daiting Shi, Jiaxin Mao, Dawei Yin \
-Proceedings of the ACM Web Conference 2025. (*WWW* 2025) \
-[Paper](https://arxiv.org/abs/2406.11678)
+* **Secure Gradient Aggregation for Wireless Multi-Server Federated Learning** \
+**Zhenhao Huang**, Songze Li, Kai Liang, Youlong Wu \
+2023 IEEE International Symposium on Information Theory (ISIT) \
+[Paper](https://ieeexplore.ieee.org/abstract/document/10206522/), 2023.06
 
-* **Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval** \
-Hanqi Zhang, Chong Chen, Lang Mei, ***Qi Liu*** and Jiaxin Mao \
-Proceedings of the 33nd ACM International Conference on Information and Knowledge Management. (*CIKM* 2024) \
-[Paper](https://arxiv.org/abs/2408.08066)
-
-* **Multi-Task Contrastive Learning for 8192-Token Bilingual Text Embeddings** \
-Isabelle Mohr, Markus Krimmel, ..., ***Qi Liu***, ..., Bo Wang, Maximilian Werk, Nan Wang, Han Xiao \
-[Preprint](https://arxiv.org/abs/2402.17016), 2024.02
-
-* **An Analysis on Matching Mechanisms and Token Pruning for Late-interaction Models** \
-***Qi Liu***\*, Gang Guo\*, Jiaxin Mao, Zhicheng Dou, Ji-Rong Wen, Hao Jiang, Xinyu Zhang, Zhao Cao \
-ACM Transactions on Information Systems. (*TOIS*) \
-[Paper](https://dl.acm.org/doi/10.1145/3639818)
-
-* **Understanding the Multi-vector Dense Retrieval Models** \
-***Qi Liu***, Jiaxin Mao \
-Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. (*CIKM* 2023) \
-[Paper](https://dl.acm.org/doi/10.1145/3583780.3615282)
-url
+<!-- url -->
 
 
 
