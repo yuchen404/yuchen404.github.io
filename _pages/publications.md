@@ -36,12 +36,12 @@ author_profile: true
 * **On the Optimality of Coded Distributed Computing for  Ring Networks** \
 **Zhenhao Huang**, Minquan Cheng, Kai Wan, Qifu Tyler Sun, Youlong Wu \
 submitted to IEEE. \
-Preprint, 2025
+[Preprint](https://arxiv.org/abs/2507.00091), 2025
 
 * **Asymptotically Optimal Secure Aggregation for Wireless Federated Learning with Multiple Servers** \
 **Zhenhao Huang**, Kai Liang, Yuanming Shi, Songze Li, Youlong Wu \
 submitted to IEEE. \
-Preprint, 2025
+[Preprint](https://arxiv.org/abs/2506.23680), 2025
 
 * **Coded Computing for Half-Duplex Wireless Distributed Computing Systems via Interference Alignment** \
 **Zhenhao Huang**, Kai Yuan, Shuai Ma, Yue Bi, Youlong Wu \
