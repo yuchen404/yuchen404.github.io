@@ -70,7 +70,7 @@ Preprint, 2025.06
 <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3em;">
   <div> 
    <a href="https://clustrmaps.com/site/1c7gg" title="ClustrMaps"> 
-     <img src="https://www.clustrmaps.com/map_v2.png?d=TEF-p1Iven3j_KDcNkZHvNLzUu0qG26nyOdQtX2musI&cl=ffffff"  
+     <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=TEF-p1Iven3j_KDcNkZHvNLzUu0qG26nyOdQtX2musI"  
           alt="ClustrMaps" style="max-width: 100px; max-height: 60px;" /> 
     </a> 
   </div> 
