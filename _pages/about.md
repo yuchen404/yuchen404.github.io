@@ -71,7 +71,7 @@ Preprint, 2025.06
   <div> 
    <a href="https://clustrmaps.com/site/1c7gg" title="ClustrMaps"> 
      <img src="https://www.clustrmaps.com/map_v2.png?d=TEF-p1Iven3j_KDcNkZHvNLzUu0qG26nyOdQtX2musI&cl=ffffff"  
-          alt="ClustrMaps" style="max-width: 100px;" /> 
+          alt="ClustrMaps" style="max-width: 100px; max-height: 60px;" /> 
     </a> 
   </div> 
  </div> 
