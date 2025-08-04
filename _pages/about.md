@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About
-Hi! I am a forth-year Ph.D. student in the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn/)) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+Hi! I am a fourth-year Ph.D. student in the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn/)) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
 
 My research interests lie in identifying and addressing problems in communication networks for distributed computation systems from a theoretical perspective, investigating notions of optimality and designing practical algorithms, in particular, designing reliable, efficient and secure communication schemes for the distributed computation system over edge networks.
 
@@ -36,7 +36,7 @@ Getting started
 # Teaching
 ------
 Shanghaitech University
-- Teaching Assistant, Fundamentals of Information Theory, Spring, 2023 (Outstanding Teaching Assistant, Top 20%).
+- Teaching Assistant, Fundamentals of Information Theory, Spring, 2023 (Outstanding Teaching Assistant).
 
 
 
