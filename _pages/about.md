@@ -67,13 +67,7 @@ Preprint, 2025.06
 [Paper](https://ieeexplore.ieee.org/abstract/document/10206522/), 2023.06 -->
 
 <!-- start custom footer snippets -->
-<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 1em;">
-  <!-- Sitemap -->
-  <div>
-    <a href="/sitemap/">Sitemap</a>
-  </div>
-
-  <!-- ClustrMaps -->
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-top: 3em;">
   <div>
     <a href="https://clustrmaps.com/site/1c7gg" title="ClustrMaps">
       <img src="https://www.clustrmaps.com/map_v2.png?d=TEF-p1Iven3j_KDcNkZHvNLzUu0qG26nyOdQtX2musI&cl=ffffff" 
